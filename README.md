@@ -1,1 +1,1 @@
-'Start按钮绑定Start，Stop按钮绑定StopInput，Clear按钮绑定Clr
+双击exe启动，启动后会模拟空格
